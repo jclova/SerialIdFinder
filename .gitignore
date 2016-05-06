@@ -1,3 +1,5 @@
+/app/build
+/.idea
 # Built application files
 *.apk
 *.ap_
